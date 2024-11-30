@@ -2,3 +2,4 @@ numpy==1.26.4
 streamlit
 streamlit_option_menu
 pip==24.0
+pickle-mixin
